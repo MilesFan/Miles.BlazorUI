@@ -1,5 +1,5 @@
 .vs
-/Demo/bin
-/Demo/obj
-/Miles.BlazorUI/bin
-/Miles.BlazorUI/obj
+bin/
+obj/
+bin/
+obj/
