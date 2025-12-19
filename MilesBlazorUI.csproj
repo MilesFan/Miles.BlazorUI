@@ -10,8 +10,8 @@
 	<Description>Some simple UI components.</Description>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
-	<PackageProjectUrl>https://github.com/MilesFan/Miles.BlazorUI</PackageProjectUrl>
-	<RepositoryUrl>https://github.com/MilesFan/Miles.BlazorUI</RepositoryUrl>
+	<PackageProjectUrl>https://github.com/MilesFan/MilesBlazorUI</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/MilesFan/MilesBlazorUI</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
