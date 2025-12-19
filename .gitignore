@@ -1,5 +1,5 @@
 .vs
-bin/
-obj/
-bin/
-obj/
+/Demo/bin
+/Demo/obj
+/bin
+/obj
