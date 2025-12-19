@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Miles.BlazorUI.csproj" />
+    <ProjectReference Include="..\MilesBlazorUI.csproj" />
   </ItemGroup>
 
 </Project>

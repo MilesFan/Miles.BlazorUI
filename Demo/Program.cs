@@ -1,5 +1,5 @@
 using Demo.Components;
-using Miles.BlazorUI;
+using MilesBlazorUI;
 
 namespace Demo
 {
