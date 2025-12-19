@@ -5,10 +5,17 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
 	<Version>1.0.18</Version>
-    <BaseOutputPath>C:\Users\z002wkem\OneDrive - Siemens Energy\Dev\MyNugetLibrary\</BaseOutputPath>
+	<Title>Miles Blazor UI</Title>
+	<Authors>Fan Xing Hua - Miles</Authors>
+	<Description>Some simple UI components.</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<PackageProjectUrl>https://github.com/MilesFan/Miles.BlazorUI</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/MilesFan/Miles.BlazorUI</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
+	<None Include="README.md" Pack="true" PackagePath="\"/>
     <Compile Remove="bin\**" />
     <Content Remove="bin\**" />
     <EmbeddedResource Remove="bin\**" />
